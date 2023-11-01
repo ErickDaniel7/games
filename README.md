@@ -30,6 +30,27 @@
   <li>
     <a href="https://erickdaniel7.github.io/jogos/tetris/index.html">Tetris</a>
   </li>
+  <li>
+    <a href="https://erickdaniel7.github.io/jogos/mario/index.html">Mario</a>
+  </li>
+  <li>
+    <a href="https://erickdaniel7.github.io/jogos/piano/index.html">Piano</a>
+  </li>
+  <li>
+    <a href="https://erickdaniel7.github.io/jogos/zelda/index.html">Zelda</a>
+  </li>
+  <li>
+    <a href="https://erickdaniel7.github.io/jogos/flappy-bird/index.html">Flappy-Bird</a>
+  </li>
+  <li>
+    <a href="https://erickdaniel7.github.io/jogos/pac-man/index.html">Pac-Man</a>
+  </li>
+  <li>
+    <a href="https://erickdaniel7.github.io/jogos/2048-game/index.html">2048</a>
+  </li>
+  <li>
+    <a href="https://erickdaniel7.github.io/jogos/campo-minado/index.html">Campo Minado</a>
+  </li>
 </ul>
 
 <br>
